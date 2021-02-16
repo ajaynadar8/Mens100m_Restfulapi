@@ -1,1 +1,3 @@
 # Mens100m_Restfulapi
+
+Created an API for displaying the details of Mens100m racing. For creating this API we have used Nodejs, Express, Mongoose, Mongodb and Postman. Mongoose provides a straight-forward, schema-based solution to model your application data. (Mongoose is an object data modeling (ODM) library that provides a rigorous modeling environment for your data, enforcing structure as needed while still maintaining the flexibility that makes MongoDB powerful.) Postman is a collaboration platform for API development. Postman's features simplify each step of building an API and streamline collaboration so you can create better APIs—faster.
